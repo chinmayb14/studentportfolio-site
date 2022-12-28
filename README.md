@@ -1,2 +1,2 @@
 # Portfolio-website
-website made to showcase student portfolio
+Hi, This is my portfolio website. This website will help me in showcasing myself,my projects and my blogs.
